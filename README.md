@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Fixed Google Drive rendering syntax to display the custom brand banner perfectly -->
-  <img width="1200" height="475" alt="NairaGuard Brand Banner" src="https://lh3.googleusercontent.com/d/1d1WJzNEhMqouxt256GMIXzXO2UwJWVZg" />
+  <img width="1200" height="475" alt="NairaGuard Brand Banner" src="https://drive.google.com/file/d/1ebzFFkrVTKrTBtgLx3EdakTpdDooopPI/view?usp=drivesdk" />
 </div>
 
 # NairaGuard — Real-Time Price Intelligence & Margin Protection
