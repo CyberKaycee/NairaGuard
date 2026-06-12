@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Replace the src URL with your custom NairaGuard banner asset when ready -->
-  <img width="1200" height="475" alt="NairaGuard Brand Banner" src="[https://ai.google.dev/static/site-assets/images/share-ais-513315318.png](https://drive.google.com/file/d/1d1WJzNEhMqouxt256GMIXzXO2UwJWVZg/view?usp=drivesdk)" />
+  <img width="1200" height="475" alt="NairaGuard Brand Banner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png](https://drive.google.com/file/d/1d1WJzNEhMqouxt256GMIXzXO2UwJWVZg/view?usp=drivesdk)" />
 </div>
 
 # NairaGuard — Real-Time Price Intelligence & Margin Protection
